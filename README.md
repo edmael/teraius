@@ -1,5 +1,5 @@
 # TERAIUS - TElegram RAndom Image Uploader Script
-A very basic (and poorly written, probably) script that uploads a random image from a series of folder-organized gallery to Telegram, once every time you run it. This is script uses [Telethon](https://github.com/LonamiWebs/Telethon) to connect to Telegram.
+A very basic (and poorly written, probably) script that uploads a random image from a series of folder-organized galleries to Telegram, once every time you run it. This script uses [Telethon](https://github.com/LonamiWebs/Telethon) to connect to Telegram.
 
 The code is (let me emphatize that) dirty and it's used to randomly post an image using my name in a number of given groups. The script basically does this:
 
